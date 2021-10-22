@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Groceries",
+      "day": "Oct 30",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Vaccuum",
+      "day": "Oct 24",
+      "reminder": true
+    },
+    {
+      "text": "Workout",
+      "day": "Oct 8th at 1:00pm",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
